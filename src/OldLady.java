@@ -1,4 +1,16 @@
-
+/***
+ * Grading comments:
+ * Overall, very good.   You got the concept of reducing typing
+ * by using methods, and you nested methods - which gets rid of
+ * duplication.
+ *  Compiles/runs: 15/15
+ *  Desired output: 6/6
+ *  Consistency: 2/2
+ *  Efficiency:  1/2 -  You could have done even more here by a method that
+ *   has "There was an old lady who swallowed a"  method.
+ *  Very good effort though.
+ *  24/25
+ */
 public class OldLady {
 
 	public static void main(String[] args) {
